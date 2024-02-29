@@ -1,0 +1,95 @@
+{
+    "players": [
+      {
+        "name": "Lionel Messi",
+        "team": "Paris Saint-Germain",
+        "position": "RW",
+        "fifa_ratings": {
+          "overall": 93,
+          "shooting": 95,
+          "passing": 86,
+          "dribbling": 96,
+          "defending": 35,
+          "physicality": 66,
+          "pace": 85
+        },
+        "image_url": "https://res.cloudinary.com/dzgplbgdi/image/upload/v1709206120/React%20Props/messi.png"
+      },
+      {
+        "name": "Cristiano Ronaldo",
+        "team": "Manchester United",
+        "position": "ST",
+        "fifa_ratings": {
+          "overall": 92,
+          "shooting": 94,
+          "passing": 80,
+          "dribbling": 88,
+          "defending": 40,
+          "physicality": 89,
+          "pace": 87
+        },
+        "image_url": "https://res.cloudinary.com/dzgplbgdi/image/upload/v1709206118/React%20Props/Cristiano%20Ronaldo.png"
+      },
+      {
+        "name": "Neymar Jr.",
+        "team": "Paris Saint-Germain",
+        "position": "LW",
+        "fifa_ratings": {
+          "overall": 91,
+          "shooting": 89,
+          "passing": 83,
+          "dribbling": 95,
+          "defending": 32,
+          "physicality": 58,
+          "pace": 92
+        },
+        "image_url": "https://res.cloudinary.com/dzgplbgdi/image/upload/v1709206118/React%20Props/Neymar%20Jr.png"
+      },
+      {
+        "name": "Kevin De Bruyne",
+        "team": "Manchester City",
+        "position": "CM",
+        "fifa_ratings": {
+          "overall": 91,
+          "shooting": 86,
+          "passing": 92,
+          "dribbling": 87,
+          "defending": 66,
+          "physicality": 78,
+          "pace": 78
+        },
+        "image_url": "https://res.cloudinary.com/dzgplbgdi/image/upload/v1709206118/React%20Props/Kevin%20De%20Bruyne.png"
+      },
+      {
+        "name": "R. Lewandowski",
+        "team": "Bayern Munich",
+        "position": "ST",
+        "fifa_ratings": {
+          "overall": 92,
+          "shooting": 91,
+          "passing": 75,
+          "dribbling": 83,
+          "defending": 44,
+          "physicality": 82,
+          "pace": 76
+        },
+        "image_url": "https://res.cloudinary.com/dzgplbgdi/image/upload/v1709206119/React%20Props/Robert%20Lewandowski.png"
+      },
+      {
+        "name": "Kylian Mbappe",
+        "team": "Paris Saint-Germain",
+        "position": "ST",
+        "fifa_ratings": {
+          "overall": 91,
+          "shooting": 88,
+          "passing": 82,
+          "dribbling": 93,
+          "defending": 38,
+          "physicality": 74,
+          "pace": 96
+        },
+        "image_url": "https://res.cloudinary.com/dzgplbgdi/image/upload/v1709206118/React%20Props/Kylian%20Mbappe.png"
+      }
+    ]
+  }
+  
